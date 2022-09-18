@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+This is basic React app that provides a simple way to create a React components.
+How to create Reusable components, how to use them,  styling of components.
+How to pass and use props from parent to child components, etc.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
